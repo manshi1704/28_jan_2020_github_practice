@@ -8,7 +8,7 @@ public class Tests_steps {
 	
 	@Given("User is on Home Page")
 	public void user_is_on_Home_Page() {
-		System.out.println("user is on home page");
+		System.out.println("user is on home page and he should sleep");
 	   
 	}
 
